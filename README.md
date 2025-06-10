@@ -1,5 +1,3 @@
-Sure, Nav — here's a punchy, polished GitHub repo description that captures the full scope of your project while keeping it tight and dev-friendly:
-
 ---
 
 # 🧠 BERT News Classifier
